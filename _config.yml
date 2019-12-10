@@ -119,26 +119,26 @@ author:
        # url: "https://www.facebook.com/kim.taehong.96"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ktth159"
+      # url: "https://github.com/ktth159"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/ddaehongkim"
+      # url: "https://instagram.com/ddaehongkim"
 
 # Site Footer
 footer:
   links:    
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:ktth159@email.com
+      # url: mailto:ktth159@email.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/kim.taehong.96"
+      # url: "https://www.facebook.com/kim.taehong.96"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ktth159"
+      # url: "https://github.com/ktth159"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/ddaehongkim"
+      # url: "https://instagram.com/ddaehongkim"
 
 
 # Reading Files
