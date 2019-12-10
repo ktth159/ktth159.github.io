@@ -1,3 +1,4 @@
+remote_theme : mmistakes/jekyll-theme-skinny-bones
 # Site wide configuration
 
 title: "My Site"
@@ -37,7 +38,6 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
-remote_theme : mmistakes/jekyll-theme-skinny-bones
 include:
   - .htaccess
 exclude:
